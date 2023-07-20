@@ -1,7 +1,6 @@
-﻿using MyNotesApp.Models;
-using System.Collections.ObjectModel;
+﻿using System.Collections.ObjectModel;
 
-namespace MyNotesApp.Models;
+namespace com.goldsprite.MyNotesApp.Models;
 
 internal class AllNotes
 {
