@@ -1,4 +1,4 @@
-﻿namespace MyNotesApp.Views
+﻿namespace com.goldsprite.MyNotesApp.Views
 {
     public partial class MainPage : ContentPage
     {

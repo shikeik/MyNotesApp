@@ -1,4 +1,6 @@
-﻿namespace MyNotesApp
+﻿using Views = com.goldsprite.MyNotesApp.Views;
+
+namespace MyNotesApp
 {
     public partial class AppShell : Shell
     {

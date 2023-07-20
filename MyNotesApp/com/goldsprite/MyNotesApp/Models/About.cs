@@ -1,4 +1,4 @@
-﻿namespace MyNotesApp.Models;
+﻿namespace com.goldsprite.MyNotesApp.Models;
 
 internal class About
 {
